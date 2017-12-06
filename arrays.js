@@ -11,4 +11,4 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 
 }
 
-console.log(addElementToBeginningOfArray(chocolateBars, "test"))
+function
